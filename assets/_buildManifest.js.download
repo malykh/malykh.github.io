@@ -1,0 +1,37 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+self.__BUILD_MANIFEST={__rewrites:{beforeFiles:[],afterFiles:[],fallback:[]},"/":["static/chunks/ea88be26-8ad2b66f9d16a92e.js","static/chunks/942-fa11338035d67e66.js","static/css/9613193b2c46b966.css","static/chunks/pages/index-8d64a652057c3b00.js"],"/_error":["static/chunks/pages/_error-0a004b8b8498208d.js"],sortedPages:["/","/_app","/_error"]},self.__BUILD_MANIFEST_CB&&self.__BUILD_MANIFEST_CB();
+
+}
+/*
+     FILE ARCHIVED ON 16:46:38 Jun 17, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:38:40 Feb 09, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 111.862
+  exclusion.robots: 0.07
+  exclusion.robots.policy: 0.062
+  RedisCDXSource: 1.12
+  esindex: 0.007
+  LoadShardBlock: 93.764 (3)
+  PetaboxLoader3.datanode: 180.467 (5)
+  CDXLines.iter: 14.606 (3)
+  load_resource: 277.499
+  PetaboxLoader3.resolve: 21.956
+  loaddict: 239.429
+*/
